@@ -1,17 +1,27 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋 </br></br>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZuOHRzeXNlZTA0Z2lrYXQ4cDZ5cnR5eGs2cHI3Z2N1bmU4ZmJycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="what's up"/>
+</h1>
 
-## Sobre Mim
 
-Olá! Eu sou Danilo, um desenvolvedor de software com paixão por tecnologia, inovação e aprendizado contínuo. Tenho conhecimento em javascript/typescript com as tecnologia de ReactJS, VueJs, NodeJs e NextJs.
 
-## Formação
+<h2>Sobre Mim</h2>
 
-- **Anhanguera**
-  - Curso: Análise e desenvolvimento de sistemas.
-  - Conclusão: 07/2025.
-  - Descrição: No curso aprendi a implementar e gerenciar sistemas de informação, também me desenvolvi na programação, banco de dados, engenharia de software, redes de computadores e segurança da informação. Com ele estou preparado para analisar problemas, desenvolver soluções tecnológicas eficientes e integrar diferentes sistemas, atendendo às demandas do mercado de tecnologia da informação.
+<p>Olá! Eu sou Danilo, um desenvolvedor de software apaixonado por tecnologia, inovação e aprendizado contínuo. Tenho conhecimento em javascript/typescript com as tecnologia de ReactJS, VueJs, NodeJs e NextJs que está em uma constante evolução. Além disso, me dedico para a área de análise de dados, com Power BI, SQL e python.</p>
 
-## Habilidades
+<h2>Formação</h2>
+
+<ul>
+  <li>
+    <strong>Anhanguera</strong>
+    <ul>
+      <li>Curso: Análise e desenvolvimento de sistemas.</li>
+      <li>Conclusão: 07/2025.</li>
+      <li>Descrição: No curso aprendi a implementar e gerenciar sistemas de informação, também me desenvolvi na programação, banco de dados, engenharia de software, redes de computadores e segurança da informação. Com ele estou preparado para analisar problemas, desenvolver soluções tecnológicas eficientes e integrar diferentes sistemas, atendendo às demandas do mercado de tecnologia da informação.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>Habilidades</h2>
 
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" />
@@ -28,7 +38,7 @@ Olá! Eu sou Danilo, um desenvolvedor de software com paixão por tecnologia, in
   </a>
 </p>
 
-## Contato
+<h2>Contato</h2>
 
 <p align="center">
   <a href="mailto:danilofernandessilva98@gmail.com">
