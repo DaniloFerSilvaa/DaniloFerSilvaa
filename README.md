@@ -6,7 +6,7 @@
 
 <h2>Sobre Mim</h2>
 
-<p>Olá! Eu sou Danilo, um desenvolvedor de software apaixonado por tecnologia, inovação e aprendizado contínuo. Tenho conhecimento em javascript/typescript com as tecnologia de ReactJS, VueJs, NodeJs e NextJs que está em uma constante evolução. Além disso, me dedico para a área de análise de dados, com Power BI, SQL e python.</p>
+<p>Olá! Eu sou Danilo, um desenvolvedor de software apaixonado por tecnologia, inovação e aprendizado contínuo. Tenho conhecimento em javascript/typescript com as tecnologia de ReactJS, VueJs, NodeJs e NextJs que está em uma constante evolução. Além disso, me dedico para a área de análise de dados, com Power BI, SQL e PHP</p>
 
 <h2>Formação</h2>
 
@@ -29,7 +29,7 @@
   <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" alt="ReactJs" />
   <img src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="VueJs" />
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="NodeJs" />
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" />
+  <img src="https://img.icons8.com/?size=100&id=plPz67QUdeWA&format=png&color=000000" alt="PHP" />
 </p>
 
 <p align="center">
